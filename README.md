@@ -1,7 +1,3 @@
-Here’s a sample `README.md` file you can use for your project. It explains the functionality of your program, dependencies, and usage instructions. You can adjust it based on your project structure.
-
----
-
 # YouTube Audio to Text and Text-to-Speech Pipeline
 
 This project provides a pipeline that downloads audio from a YouTube video, transcribes it to text using the Deepgram API, and converts the transcribed text back into speech using the Eleven Labs API.
@@ -88,6 +84,3 @@ if transcript:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-Let me know if you'd like to make any adjustments or add more details!
