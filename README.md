@@ -80,7 +80,4 @@ if transcript:
 - The current implementation uses YouTube video URLs and processes videos of reasonable length. If the transcript is too long, consider using a shorter video.
 - Make sure you have the required API quotas and permissions for using Deepgram and Eleven Labs APIs.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
